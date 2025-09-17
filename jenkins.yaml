@@ -1,2 +1,2 @@
 build:
-  -./mvnw clean package
+  - ./mvnw clean package
